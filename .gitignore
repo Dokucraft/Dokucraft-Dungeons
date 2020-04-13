@@ -9,3 +9,4 @@ Dungeons/**/*.ubulk
 Dungeons/**/*.uexp
 
 *Default*/*
+*.lnk
