@@ -9,4 +9,4 @@ del /S Dungeons\*.uexp
 
 "%editorPath%\UE4Editor-Cmd.exe" "%ddp%\UE4Project\Dungeons.uproject" -run=cook -targetplatform=WindowsNoEditor
 
-robocopy "UE4Project\Saved\Cooked\WindowsNoEditor\Dungeons\Content" Dungeons\Content /s
+robocopy "UE4Project\Saved\Cooked\WindowsNoEditor\Dungeons\Content" Dungeons\Content /s /XF M_*.u* MI_*.u*
