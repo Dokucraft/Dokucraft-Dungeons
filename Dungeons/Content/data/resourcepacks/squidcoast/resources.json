@@ -560,6 +560,8 @@
       "block.stone.andesite.smooth": "images/blocks/stone_andesite_smooth.png",
       "block.stone.diorite": "images/blocks/stone_diorite.png",
       "block.stone.diorite.smooth": "images/blocks/stone_diorite_smooth.png",
+      "block.stone.diorite.top": "images/blocks/stone_diorite_top.png",
+      "block.stone.diorite.smooth.top": "images/blocks/stone_diorite_smooth_top.png",
       "block.stone.granite": "images/blocks/stone_granite.png",
       "block.stone.granite.smooth": "images/blocks/stone_granite_smooth.png",
       "block.stone.stonefloor.1": "images/blocks/stonefloor1.png",

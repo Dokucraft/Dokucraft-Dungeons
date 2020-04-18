@@ -96,6 +96,26 @@
         "block.stone.stonefloor.9"
       ]
     },
+    "stone_top": {
+      "textures": [
+        "block.stone",
+        "block.stone.granite",
+        "block.stone.granite.smooth",
+        "block.stone.diorite.top",
+        "block.stone.diorite.smooth.top",
+        "block.stone.andesite",
+        "block.stone.andesite.smooth",
+        "block.stone.stonefloor.1",
+        "block.stone.stonefloor.2",
+        "block.stone.stonefloor.3",
+        "block.stone.stonefloor.4",
+        "block.stone.stonefloor.5",
+        "block.stone.stonefloor.6",
+        "block.stone.stonefloor.7",
+        "block.stone.stonefloor.8",
+        "block.stone.stonefloor.9"
+      ]
+    },
     "cobblestone": {
       "textures": "block.cobblestone"
     },
