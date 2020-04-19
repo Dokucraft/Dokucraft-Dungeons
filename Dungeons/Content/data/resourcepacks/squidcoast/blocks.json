@@ -135,7 +135,7 @@
 		"textures" : "stone_gradient"
 	},
 	"custom_0" : {
-		"textures" : "custom_0"
+		"textures" : { "up" : "custom_0", "down" : "dirt", "side" : "grass_side"}
 	},
 	"custom_1" : {
 		"textures" : "custom_1"
@@ -352,7 +352,7 @@
 	},
 	"nether_brick_fence" : { 
 		"blockshape" : "fence",
-		"textures" : "nether_brick"
+		"textures" : "planks"
 	},
 	"pumpkin" : { 
 		"textures" : { "up" : "pumpkin_top", "down" : "pumpkin_top", "north" : "pumpkin_side",  "south" : "pumpkin_face", "west" : "pumpkin_side",  "east" : "pumpkin_side"}
