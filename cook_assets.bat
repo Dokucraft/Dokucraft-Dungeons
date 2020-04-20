@@ -10,3 +10,4 @@ del /S Dungeons\*.uexp
 "%editorPath%\UE4Editor-Cmd.exe" "%ddp%\UE4Project\Dungeons.uproject" -run=cook -targetplatform=WindowsNoEditor
 
 robocopy /job:Tools\copy_cooked_assets
+package
