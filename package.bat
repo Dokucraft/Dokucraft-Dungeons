@@ -1,4 +1,3 @@
-SET "gameDir=C:\Program Files (x86)\Minecraft Dungeons Launcher\products\dungeons\dungeons"
-SET "paksPath=Dungeons\Content\Paks"
+SET /p gameDir= < Tools\settings\game_directory.txt
 
-python Tools\u4pak.py pack "%gameDir%\%paksPath%\~Dokucraft-Dungeons.pak" Dungeons
+python Tools\u4pak.py pack "%gameDir%\Dungeons\Content\Paks\~Dokucraft-Dungeons.pak" Dungeons -p

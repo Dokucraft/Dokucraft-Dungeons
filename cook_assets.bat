@@ -1,7 +1,7 @@
 SET "ddp=%~dp0"
 SET "ddp=%ddp:~0,-1%"
 
-SET "editorPath=C:\Program Files\Epic Games\UE_4.22\Engine\Binaries\Win64"
+SET /p editorPath= < Tools\settings\editor_directory.txt
 
 del /S Dungeons\*.uasset
 del /S Dungeons\*.ubulk
