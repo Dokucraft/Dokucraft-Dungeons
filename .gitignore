@@ -10,3 +10,5 @@ Dungeons/**/*.uexp
 
 *Default*/*
 *.lnk
+
+Tools/settings/*
