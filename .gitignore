@@ -11,6 +11,4 @@ Dungeons/**/*.uexp
 *Default*/*
 *.lnk
 
-Tools/settings/*
-Tools/settings/editor_directory.txt
-Tools/settings/game_directory.txt
+/Tools/settings/*
