@@ -36,6 +36,30 @@ for png in [f.path.replace('\\', '/') for f in scantree('UE4Project/Content') if
 
   importGroups.append(group)
 
+for fbx in [f.path.replace('\\', '/') for f in scantree('UE4Project/Content') if f.name.endswith('.fbx') and not os.path.isfile(os.path.splitext(f.path)[0]+'.uasset')]:
+  group = {
+    'GroupName': os.path.basename(fbx),
+    'Filenames': [ cwd + '/' + fbx ],
+    'DestinationPath': os.path.dirname(fbx).replace('UE4Project/Content', '/Game'),
+    'bReplaceExisting':'true',
+    'bSkipReadOnly':'false',
+    'FactoryName': 'FbxFactory',
+    'ImportSettings': {
+      'bImportTextures': False,
+      'bImportMaterials': True
+    }
+  }
+
+  print('Importing ' + fbx.replace('UE4Project/Content/', ''))
+
+  # Load custom import settings, if any
+  if os.path.isfile(os.path.splitext(fbx)[0]+'.json'):
+    with open(os.path.splitext(fbx)[0]+'.json') as json_file:
+      for key,value in json.load(json_file).items():
+        group['ImportSettings'][key] = value
+
+  importGroups.append(group)
+
 settingsFile = open('Tools/tmp_import_settings.json', 'w')
 settingsFile.write(json.dumps({ 'ImportGroups': importGroups }))
 settingsFile.close()
