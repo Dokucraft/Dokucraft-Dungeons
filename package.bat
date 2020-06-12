@@ -1,3 +1,3 @@
-SET /p gameDir= < Tools\settings\game_directory.txt
+SET /p packageOutput= < Tools\settings\package_output.txt
 
-python Tools\u4pak.py pack "%gameDir%\Dungeons\Content\Paks\~Dokucraft-Dungeons.pak" Dungeons -p
+python Tools\u4pak.py pack "%packageOutput%" Dungeons -p
