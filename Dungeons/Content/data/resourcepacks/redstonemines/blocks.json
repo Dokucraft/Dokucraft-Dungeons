@@ -61,7 +61,6 @@
 		"textures" : { "up" : "log_top", "down" : "log_top", "side" : "log_side"}
 	},
 	"leaves" : { 
-		"blockshape" : "leaves",
 		"textures" : "leaves",
 		"carried_textures" : "leaves_carried"
 	},
@@ -168,10 +167,10 @@
 		"textures" : "custom_11"
 	},
 	"custom_12" : {
-		"textures" : { "up" : "custom_12", "down" : "custom_7", "side" : "custom_15"}
+		"textures" : "custom_12"
 	},
 	"custom_13" : {
-		"textures" : { "up" : "custom_13", "down" : "custom_7", "side" : "custom_15"}
+		"textures" : "custom_13"
 	},
 	"custom_14" : {
 		"textures" : "custom_14"
@@ -345,7 +344,7 @@
 	},
 	"nether_brick_fence" : { 
 		"blockshape" : "fence",
-		"textures" : "nether_brick"
+		"textures" : "planks"
 	},
 	"pumpkin" : { 
 		"textures" : { "up" : "pumpkin_top", "down" : "pumpkin_top", "north" : "pumpkin_side",  "south" : "pumpkin_face", "west" : "pumpkin_side",  "east" : "pumpkin_side"}
@@ -488,7 +487,7 @@
 		"textures" : "stonebrick"
 	},
 	"nether_brick" : { 
-		"textures" : "nether_brick"
+		"textures" : "custom_8"
 	},
 	"nether_brick_stairs" : { 
 		"blockshape" : "stairs",
@@ -602,7 +601,6 @@
 		"textures" : "stained_clay"
 	},
 	"leaves2" : { 
-		"blockshape" : "leaves",
 		"textures" : "leaves2",
 		"carried_textures" : "leaves_carried2"
 	},
@@ -651,7 +649,7 @@
 		"textures" : { "up" : "daylight_detector_top", "down" : "daylight_detector_side", "side" : "daylight_detector_side"}
 	},
 	"red_sandstone" : { 
-		"textures" : { "up" : "redsandstone_top", "down" : "cobblestone", "side" : "cobblestone"}
+		"textures" : { "up" : "grass_top", "down" : "grass_bottom", "side" : "grass_side"}
 	},
 	"red_sandstone_stairs" : { 
 		"blockshape" : "stairs",

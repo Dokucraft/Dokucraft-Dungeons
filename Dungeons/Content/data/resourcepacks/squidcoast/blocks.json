@@ -3,7 +3,7 @@
 	"blockshape": "invisible"
 	},
 	"stone" : {
-		"textures" : { "up" : "stone_top", "down" : "stone_top", "side" : "stone"}
+		"textures" : "stone"
 	},
 	"grass" : {
 		"textures" : { "up" : "grass_top", "down" : "grass_bottom", "side" : "grass_side"},
@@ -38,7 +38,6 @@
 		"textures" : { "up" : "still_lava", "down" : "still_lava", "side" : "flowing_lava"}
 	},
 	"lava" : { 
-		"isotropic" : true,
 		"blockshape" : "water",
 		"textures" : { "up" : "still_lava", "down" : "still_lava", "side" : "flowing_lava"}
 	},
@@ -63,12 +62,10 @@
 	},
 	"leaves" : { 
 		"blockshape" : "leaves",
-		"isotropic" : {"up" : true, "down" : true},
 		"textures" : { "up" : "leaves_top", "down" : "leaves", "side" : "leaves"},
 		"carried_textures" : "leaves_carried"
 	},
 	"sponge.dry" : { 
-		"isotropic" : true,
 		"textures" : "sponge"
 	},
 	"glass" : { 
@@ -135,7 +132,7 @@
 		"textures" : "stone_gradient"
 	},
 	"custom_0" : {
-		"textures" : { "up" : "custom_0", "down" : "dirt", "side" : "grass_side"}
+		"textures" : "custom_0"
 	},
 	"custom_1" : {
 		"textures" : "custom_1"
@@ -215,7 +212,6 @@
 		"textures" : "brick"
 	},
 	"tnt" : { 
-		"isotropic" : {"up" : true, "down" : true},
 		"textures" : { "up" : "tnt_top", "down" : "tnt_bottom", "side" : "tnt_side"}
 	},
 	"bookshelf" : { 
@@ -256,7 +252,7 @@
 		"textures" : { "up" : "crafting_table_top", "down" : "crafting_table_bottom", "north" : "crafting_table_front",  "south" : "crafting_table_front", "west" : "crafting_table_side",  "east" : "crafting_table_side"}
 	},
 	"wheat" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "rows",
 		"textures" : "wheat"
 	},
 	"farmland" : { 
@@ -324,14 +320,12 @@
 		"textures" : "stone"
 	},
 	"snow_layer" : { 
-		"isotropic" : true,
 		"textures" : "snow"
 	},
 	"ice" : { 
 		"textures" : "ice"
 	},
 	"snow" : { 
-		"isotropic" : true,
 		"textures" : "snow"
 	},
 	"cactus" : { 
@@ -339,7 +333,6 @@
 		"textures" : { "up" : "cactus_top", "down" : "cactus_bottom", "side" : "cactus_side"}
 	},
 	"clay" : { 
-		"isotropic" : true,
 		"textures" : "clay"
 	},
 	"reeds" : { 
@@ -352,7 +345,7 @@
 	},
 	"nether_brick_fence" : { 
 		"blockshape" : "fence",
-		"textures" : "planks"
+		"textures" : "nether_brick"
 	},
 	"pumpkin" : { 
 		"textures" : { "up" : "pumpkin_top", "down" : "pumpkin_top", "north" : "pumpkin_side",  "south" : "pumpkin_face", "west" : "pumpkin_side",  "east" : "pumpkin_side"}
@@ -517,7 +510,6 @@
 		"textures" : { "up" : "rail_activator_powered", "down" : "rail_activator", "side" : "rail_activator"}
 	},
 	"sandstone_stairs" : { 
-		"isotropic" : {"up" : true, "down" : true},
 		"blockshape" : "stairs", 
 		"textures" : { "up" : "sandstone_top", "down" : "sandstone_bottom", "side" : "sandstone_side"}
 	},
@@ -538,7 +530,7 @@
 		"textures" : "flower_pot"
 	},
 	"carrots" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "rows",
 		"textures" : "carrots"
 	},
 	"potatoes" : { 
@@ -607,12 +599,10 @@
 		"textures" : "stonefloor"
 	},
 	"stained_hardened_clay" : { 
-		"isotropic" : true,
 		"textures" : { "up" : "stained_clay_top", "down" : "stained_clay", "side" : "stained_clay"}
 	},
 	"leaves2" : { 
 		"blockshape" : "leaves",
-		"isotropic" : {"up" : true, "down" : true},
 		"textures" : "leaves2",
 		"carried_textures" : "leaves_carried2"
 	},
@@ -644,7 +634,6 @@
 		"textures" : "wool"
 	},
 	"hardened_clay" : { 
-		"isotropic" : true,
 		"textures" : "hardened_clay"
 	},
 	"coal_block" : { 
@@ -662,11 +651,9 @@
 		"textures" : { "up" : "daylight_detector_top", "down" : "daylight_detector_side", "side" : "daylight_detector_side"}
 	},
 	"red_sandstone" : { 
-		"isotropic" : {"up" : true, "down" : true},
 		"textures" : { "up" : "redsandstone_top", "down" : "redsandstone_bottom", "side" : "redsandstone_side"}
 	},
 	"red_sandstone_stairs" : { 
-		"isotropic" : {"up" : true, "down" : true},
 		"blockshape" : "stairs",
 		"textures" : "redsandstone_side"	
 	},

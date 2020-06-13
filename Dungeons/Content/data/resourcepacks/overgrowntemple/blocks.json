@@ -19,7 +19,7 @@
 		"textures" : "planks"
 	},
 	"sapling" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "cross_texture_poly",
 		"textures" : "sapling"
 	},
 	"bedrock" : { 
@@ -61,7 +61,7 @@
 		"textures" : { "up" : "log_top", "down" : "log_top", "side" : "log_side"}
 	},
 	"leaves" : { 
-		"blockshape" : "leaves",
+	    "blockshape" : "leaves",
 		"textures" : "leaves",
 		"carried_textures" : "leaves_carried"
 	},
@@ -108,12 +108,12 @@
 		"textures" : "web"
 	},
 	"tallgrass" : { 
-		"blockshape" : "cross_texture", 
+		"blockshape" : "cross_texture_poly", 
 		"textures" : "tallgrass", 
 		"carried_textures" : "tallgrass_carried"
 	},
 	"deadbush" : { 
-		"blockshape" : "cross_texture", 
+		"blockshape" : "cross_texture_poly", 
 		"textures" : "deadbush"
 	},
 	"piston" : { 
@@ -168,10 +168,10 @@
 		"textures" : "custom_11"
 	},
 	"custom_12" : {
-		"textures" : { "up" : "custom_12", "down" : "custom_7", "side" : "custom_15"}
+		"textures" : "custom_12"
 	},
 	"custom_13" : {
-		"textures" : { "up" : "custom_13", "down" : "custom_7", "side" : "custom_15"}
+		"textures" : "custom_13"
 	},
 	"custom_14" : {
 		"textures" : "custom_14"
@@ -180,19 +180,19 @@
 		"textures" : "custom_15"
 	},
 	"yellow_flower" : {
-		"blockshape" : "cross_texture",
+		"blockshape" : "cross_texture_poly",
 		"textures" : "yellow_flower"
 	},
 	"red_flower" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "cross_texture_poly",
 		"textures" : "red_flower"
 	},
 	"brown_mushroom" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "cross_texture_poly",
 		"textures" : "mushroom_brown"
 	},
 	"red_mushroom" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "cross_texture_poly",
 		"textures" : "mushroom_red"
 	},
 	"gold_block" : { 
@@ -391,7 +391,7 @@
 		"textures" : "stonebrick"
 	},
 	"brown_mushroom_block" : { 
-		"textures" : { "up" : "transparent", "down" : "transparent", "north" : "transparent",  "south" : "transparent", "west" : "transparent",  "east" : "transparent"}
+		"textures" : { "up" : "mushroom_brown_top", "down" : "mushroom_brown_bottom", "north" : "mushroom_brown_north",  "south" : "mushroom_brown_south", "west" : "mushroom_brown_west",  "east" : "mushroom_brown_east"}
 	},
 	"red_mushroom_block" : { 
 		"textures" : { "up" : "mushroom_red_top", "down" : "mushroom_red_bottom", "north" : "mushroom_red_north",  "south" : "mushroom_red_south", "west" : "mushroom_red_west",  "east" : "mushroom_red_east"}
@@ -602,7 +602,6 @@
 		"textures" : "stained_clay"
 	},
 	"leaves2" : { 
-		"blockshape" : "leaves",
 		"textures" : "leaves2",
 		"carried_textures" : "leaves_carried2"
 	},
@@ -651,7 +650,7 @@
 		"textures" : { "up" : "daylight_detector_top", "down" : "daylight_detector_side", "side" : "daylight_detector_side"}
 	},
 	"red_sandstone" : { 
-		"textures" : { "up" : "redsandstone_top", "down" : "cobblestone", "side" : "cobblestone"}
+		"textures" : { "up" : "redsandstone_top", "down" : "redsandstone_bottom", "side" : "redsandstone_side"}
 	},
 	"red_sandstone_stairs" : { 
 		"blockshape" : "stairs",
