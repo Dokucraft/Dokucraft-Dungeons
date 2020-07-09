@@ -5608,11 +5608,6 @@
     "jungle/images/blocks/dirt_path_top-88.png",
     "overgrowntemple/images/blocks/dirt_path_top-88.png"
   ],
-  "dirt_path_top-94.png_1": [
-    "bamboobluff/images/blocks/dirt_path_top-94.png",
-    "dingyjungle/images/blocks/dirt_path_top-94.png",
-    "overgrowntemple/images/blocks/dirt_path_top-94.png"
-  ],
   "dirt_path_top-95.png": [
     "bamboobluff/images/blocks/dirt_path_top-95.png",
     "dingyjungle/images/blocks/dirt_path_top-95.png",
@@ -5797,11 +5792,6 @@
     "dingyjungle/images/blocks/grass_path_top-86.png",
     "jungle/images/blocks/grass_path_top-86.png",
     "overgrowntemple/images/blocks/grass_path_top-86.png"
-  ],
-  "grass_path_top-92.png_1": [
-    "bamboobluff/images/blocks/grass_path_top-92.png",
-    "dingyjungle/images/blocks/grass_path_top-92.png",
-    "overgrowntemple/images/blocks/grass_path_top-92.png"
   ],
   "grass_path_top-93.png": [
     "bamboobluff/images/blocks/grass_path_top-93.png",
@@ -5993,11 +5983,6 @@
     "dingyjungle/images/blocks/hardened_clay_stained_white.png",
     "overgrowntemple/images/blocks/hardened_clay_stained_white.png"
   ],
-  "hardened_clay_stained_white_emissive.png_1": [
-    "bamboobluff/images/blocks/hardened_clay_stained_white_emissive.png",
-    "dingyjungle/images/blocks/hardened_clay_stained_white_emissive.png",
-    "overgrowntemple/images/blocks/hardened_clay_stained_white_emissive.png"
-  ],
   "hardened_clay_stained_yellow_bamboobluff.png": [
     "bamboobluff/images/blocks/hardened_clay_stained_yellow.png",
     "dingyjungle/images/blocks/hardened_clay_stained_yellow.png",
@@ -6070,11 +6055,6 @@
     "bamboobluff/images/blocks/leaves_acacia_opaque.png",
     "dingyjungle/images/blocks/leaves_acacia_opaque.png",
     "overgrowntemple/images/blocks/leaves_acacia_opaque.png"
-  ],
-  "leaves_acacia_outer.png_1": [
-    "bamboobluff/images/blocks/leaves_acacia_outer.png",
-    "dingyjungle/images/blocks/leaves_acacia_outer.png",
-    "overgrowntemple/images/blocks/leaves_acacia_outer.png"
   ],
   "leaves_big_oak_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_big_oak.png",
@@ -6638,11 +6618,6 @@
     "jungle/images/blocks/snow-109.png",
     "overgrowntemple/images/blocks/snow-109.png"
   ],
-  "snow-115.png_1": [
-    "bamboobluff/images/blocks/snow-115.png",
-    "dingyjungle/images/blocks/snow-115.png",
-    "overgrowntemple/images/blocks/snow-115.png"
-  ],
   "snow-116.png": [
     "bamboobluff/images/blocks/snow-116.png",
     "dingyjungle/images/blocks/snow-116.png",
@@ -6662,11 +6637,6 @@
     "bamboobluff/images/blocks/snow-120.png",
     "dingyjungle/images/blocks/snow-120.png",
     "overgrowntemple/images/blocks/snow-120.png"
-  ],
-  "snow-121.png_1": [
-    "bamboobluff/images/blocks/snow-121.png",
-    "dingyjungle/images/blocks/snow-121.png",
-    "overgrowntemple/images/blocks/snow-121.png"
   ],
   "snow-122.png": [
     "bamboobluff/images/blocks/snow-122.png",
@@ -6744,11 +6714,6 @@
     "mycelia/images/blocks/stonefloor8.png",
     "overgrowntemple/images/blocks/stonefloor8.png",
     "pumpkinpastures/images/blocks/stonefloor8.png"
-  ],
-  "stonefloor9.png_1": [
-    "bamboobluff/images/blocks/stonefloor9.png",
-    "dingyjungle/images/blocks/stonefloor9.png",
-    "overgrowntemple/images/blocks/stonefloor9.png"
   ],
   "stone_andesite_bamboobluff.png": [
     "bamboobluff/images/blocks/stone_andesite.png",
@@ -10064,6 +10029,41 @@
   ],
   "stone_slab_top_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/stone_slab_top.png"
+  ],
+  "dirt_path_top-94_bamboobluff.png": [
+    "bamboobluff/images/blocks/dirt_path_top-94.png",
+    "dingyjungle/images/blocks/dirt_path_top-94.png",
+    "overgrowntemple/images/blocks/dirt_path_top-94.png"
+  ],
+  "grass_path_top-92_bamboobluff.png": [
+    "bamboobluff/images/blocks/grass_path_top-92.png",
+    "dingyjungle/images/blocks/grass_path_top-92.png",
+    "overgrowntemple/images/blocks/grass_path_top-92.png"
+  ],
+  "hardened_clay_stained_white_emissive_bamboobluff.png": [
+    "bamboobluff/images/blocks/hardened_clay_stained_white_emissive.png",
+    "dingyjungle/images/blocks/hardened_clay_stained_white_emissive.png",
+    "overgrowntemple/images/blocks/hardened_clay_stained_white_emissive.png"
+  ],
+  "leaves_acacia_outer_bamboobluff.png": [
+    "bamboobluff/images/blocks/leaves_acacia_outer.png",
+    "dingyjungle/images/blocks/leaves_acacia_outer.png",
+    "overgrowntemple/images/blocks/leaves_acacia_outer.png"
+  ],
+  "snow-115_bamboobluff.png": [
+    "bamboobluff/images/blocks/snow-115.png",
+    "dingyjungle/images/blocks/snow-115.png",
+    "overgrowntemple/images/blocks/snow-115.png"
+  ],
+  "snow-121_bamboobluff.png": [
+    "bamboobluff/images/blocks/snow-121.png",
+    "dingyjungle/images/blocks/snow-121.png",
+    "overgrowntemple/images/blocks/snow-121.png"
+  ],
+  "stonefloor9_bamboobluff.png": [
+    "bamboobluff/images/blocks/stonefloor9.png",
+    "dingyjungle/images/blocks/stonefloor9.png",
+    "overgrowntemple/images/blocks/stonefloor9.png"
   ],
   "sandstone_bottom_jungle.png": [
     "jungle/images/blocks/sandstone_bottom.png"
