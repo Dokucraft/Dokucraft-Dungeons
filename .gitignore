@@ -9,5 +9,7 @@ Dungeons/**/*.ubulk
 Dungeons/**/*.uexp
 Dungeons/Content/data/resourcepacks/*/images/blocks/*.png
 
+Missing Textures/*
+
 *Default*/*
 *.lnk
