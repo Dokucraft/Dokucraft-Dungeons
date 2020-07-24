@@ -2734,9 +2734,7 @@
   ],
   "leaves_big_oak.png": [
     "mooncorecaverns/images/blocks/leaves_big_oak.png",
-    "mooncorecaverns/images/blocks/leaves_big_oak_carried.png",
-    "squidcoast/images/blocks/leaves_big_oak.png",
-    "squidcoast/images/blocks/leaves_big_oak_carried.png"
+    "squidcoast/images/blocks/leaves_big_oak.png"
   ],
   "leaves_big_oak_opaque.png": [
     "jungle/images/blocks/leaves_big_oak_opaque.png",
@@ -2755,15 +2753,11 @@
   ],
   "leaves_birch.png": [
     "mooncorecaverns/images/blocks/leaves_birch.png",
-    "mooncorecaverns/images/blocks/leaves_birch_carried.png",
     "mooncorecaverns/images/blocks/leaves_birch_top.png",
     "mooncorecaverns/images/blocks/leaves_oak.png",
-    "mooncorecaverns/images/blocks/leaves_oak_carried.png",
     "squidcoast/images/blocks/leaves_birch.png",
-    "squidcoast/images/blocks/leaves_birch_carried.png",
     "squidcoast/images/blocks/leaves_birch_top.png",
-    "squidcoast/images/blocks/leaves_oak.png",
-    "squidcoast/images/blocks/leaves_oak_carried.png"
+    "squidcoast/images/blocks/leaves_oak.png"
   ],
   "leaves_birch_opaque.png": [
     "squidcoast/images/blocks/leaves_birch_opaque.png"
@@ -3453,24 +3447,6 @@
     "mooncorecaverns/images/blocks/quartz_block_chiseled_top.png",
     "obsidianpinnacle/images/blocks/quartz_block_chiseled_top.png",
     "squidcoast/images/blocks/quartz_block_chiseled_top.png"
-  ],
-  "quartz_block_lines - copy.png": [
-    "bamboobluff/images/blocks/quartz_block_lines - Copy.png",
-    "creeperwoods/images/blocks/quartz_block_lines - Copy.png",
-    "deserttemple/images/blocks/quartz_block_lines - Copy.png",
-    "dingyjungle/images/blocks/quartz_block_lines - Copy.png",
-    "highblockhalls/images/blocks/quartz_block_lines - Copy.png",
-    "jungle/images/blocks/quartz_block_lines - Copy.png",
-    "mooncorecaverns/images/blocks/quartz_block_lines.png",
-    "mooncorecaverns/images/blocks/quartz_block_lines - Copy.png",
-    "mycelia/images/blocks/quartz_block_lines - Copy.png",
-    "obsidianpinnacle/images/blocks/quartz_block_lines.png",
-    "obsidianpinnacle/images/blocks/quartz_block_lines - Copy.png",
-    "overgrowntemple/images/blocks/quartz_block_lines - Copy.png",
-    "pumpkinpastures/images/blocks/quartz_block_lines - Copy.png",
-    "redstonemines/images/blocks/quartz_block_lines - Copy.png",
-    "soggyswamp/images/blocks/quartz_block_lines - Copy.png",
-    "squidcoast/images/blocks/quartz_block_lines - Copy.png"
   ],
   "quartz_block_lines.png": [
     "bamboobluff/images/blocks/quartz_block_lines.png",
@@ -5504,11 +5480,8 @@
   ],
   "leaves_acacia_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_acacia.png",
-    "bamboobluff/images/blocks/leaves_acacia_carried.png",
     "dingyjungle/images/blocks/leaves_acacia.png",
-    "dingyjungle/images/blocks/leaves_acacia_carried.png",
-    "overgrowntemple/images/blocks/leaves_acacia.png",
-    "overgrowntemple/images/blocks/leaves_acacia_carried.png"
+    "overgrowntemple/images/blocks/leaves_acacia.png"
   ],
   "leaves_acacia_opaque_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_acacia_opaque.png",
@@ -5517,11 +5490,8 @@
   ],
   "leaves_big_oak_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_big_oak.png",
-    "bamboobluff/images/blocks/leaves_big_oak_carried.png",
     "dingyjungle/images/blocks/leaves_big_oak.png",
-    "dingyjungle/images/blocks/leaves_big_oak_carried.png",
-    "overgrowntemple/images/blocks/leaves_big_oak.png",
-    "overgrowntemple/images/blocks/leaves_big_oak_carried.png"
+    "overgrowntemple/images/blocks/leaves_big_oak.png"
   ],
   "leaves_big_oak_opaque_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_big_oak_opaque.png",
@@ -5529,8 +5499,7 @@
     "overgrowntemple/images/blocks/leaves_big_oak_opaque.png"
   ],
   "leaves_birch_bamboobluff.png": [
-    "bamboobluff/images/blocks/leaves_birch.png",
-    "bamboobluff/images/blocks/leaves_birch_carried.png"
+    "bamboobluff/images/blocks/leaves_birch.png"
   ],
   "leaves_birch_opaque_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_birch_opaque.png"
@@ -5552,11 +5521,8 @@
   ],
   "leaves_oak_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_oak.png",
-    "bamboobluff/images/blocks/leaves_oak_carried.png",
     "dingyjungle/images/blocks/leaves_oak.png",
-    "dingyjungle/images/blocks/leaves_oak_carried.png",
-    "overgrowntemple/images/blocks/leaves_oak.png",
-    "overgrowntemple/images/blocks/leaves_oak_carried.png"
+    "overgrowntemple/images/blocks/leaves_oak.png"
   ],
   "leaves_oak_opaque_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_oak_opaque.png",
@@ -5568,9 +5534,7 @@
   ],
   "leaves_spruce_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_spruce.png",
-    "bamboobluff/images/blocks/leaves_spruce_carried.png",
-    "dingyjungle/images/blocks/leaves_spruce.png",
-    "dingyjungle/images/blocks/leaves_spruce_carried.png"
+    "dingyjungle/images/blocks/leaves_spruce.png"
   ],
   "leaves_spruce_opaque_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_spruce_opaque.png",
@@ -6521,6 +6485,9 @@
     "creeperwoods/images/blocks/gravel_path_top.png",
     "soggyswamp/images/blocks/gravel_path_top.png"
   ],
+  "leaves_acacia_creeperwoods.png": [
+    "creeperwoods/images/blocks/leaves_acacia.png"
+  ],
   "leaves_acacia_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_acacia_opaque.png"
   ],
@@ -6554,6 +6521,9 @@
   ],
   "leaves_oak_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_oak_opaque.png"
+  ],
+  "leaves_spruce_creeperwoods.png": [
+    "creeperwoods/images/blocks/leaves_spruce.png"
   ],
   "leaves_spruce_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_spruce_opaque.png"
@@ -7437,6 +7407,10 @@
   "ladder_dingyjungle.png": [
     "dingyjungle/images/blocks/ladder.png"
   ],
+  "leaves_birch_dingyjungle.png": [
+    "dingyjungle/images/blocks/leaves_birch.png",
+    "overgrowntemple/images/blocks/leaves_birch.png"
+  ],
   "leaves_birch_opaque_dingyjungle.png": [
     "dingyjungle/images/blocks/leaves_birch_opaque.png",
     "overgrowntemple/images/blocks/leaves_birch_opaque.png"
@@ -7992,6 +7966,10 @@
     "mycelia/images/blocks/hay_block_top.png",
     "pumpkinpastures/images/blocks/hay_block_top.png"
   ],
+  "leaves_acacia_jungle.png": [
+    "jungle/images/blocks/leaves_acacia.png",
+    "mycelia/images/blocks/leaves_acacia.png"
+  ],
   "leaves_acacia_opaque_jungle.png": [
     "jungle/images/blocks/leaves_acacia_opaque.png",
     "mycelia/images/blocks/leaves_acacia_opaque.png"
@@ -8003,11 +7981,19 @@
     "jungle/images/blocks/leaves_acacia_outer.png",
     "mycelia/images/blocks/leaves_acacia_outer.png"
   ],
+  "leaves_big_oak_jungle.png": [
+    "jungle/images/blocks/leaves_big_oak.png",
+    "mycelia/images/blocks/leaves_big_oak.png"
+  ],
   "leaves_big_oak_outer_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_big_oak_outer.png",
     "jungle/images/blocks/leaves_big_oak_outer.png",
     "mycelia/images/blocks/leaves_big_oak_outer.png",
     "pumpkinpastures/images/blocks/leaves_big_oak_outer.png"
+  ],
+  "leaves_birch_jungle.png": [
+    "jungle/images/blocks/leaves_birch.png",
+    "mycelia/images/blocks/leaves_birch.png"
   ],
   "leaves_birch_opaque_jungle.png": [
     "jungle/images/blocks/leaves_birch_opaque.png",
@@ -8022,6 +8008,12 @@
   "leaves_birch_outer_jungle.png": [
     "jungle/images/blocks/leaves_birch_Outer.png",
     "mycelia/images/blocks/leaves_birch_Outer.png"
+  ],
+  "leaves_jungle_jungle.png": [
+    "jungle/images/blocks/leaves_jungle.png",
+    "jungle/images/blocks/leaves_oak.png",
+    "mycelia/images/blocks/leaves_jungle.png",
+    "mycelia/images/blocks/leaves_oak.png"
   ],
   "leaves_jungle_opaque_jungle.png": [
     "jungle/images/blocks/leaves_jungle_opaque.png",
@@ -8043,6 +8035,10 @@
   ],
   "leaves_spruce-44.png": [
     "jungle/images/blocks/leaves_spruce-44.png"
+  ],
+  "leaves_spruce_jungle.png": [
+    "jungle/images/blocks/leaves_spruce.png",
+    "mycelia/images/blocks/leaves_spruce.png"
   ],
   "leaves_spruce_outer_jungle.png": [
     "jungle/images/blocks/leaves_spruce_outer.png",
@@ -8333,8 +8329,10 @@
     "cacticanyon/images/blocks/hardened_clay_stained_yellow.png"
   ],
   "leaves_big_oak_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_big_oak.png",
-    "cacticanyon/images/blocks/leaves_oak_carried.png"
+    "cacticanyon/images/blocks/leaves_big_oak.png"
+  ],
+  "leaves_big_oak_opaque_cacticanyon.png": [
+    "cacticanyon/images/blocks/leaves_big_oak_opaque.png"
   ],
   "leaves_oak_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_oak.png"
@@ -8679,6 +8677,10 @@
   "grass_top_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/grass_top.png"
   ],
+  "leaves_acacia_carried_pumpkinpastures.png": [
+    "pumpkinpastures/images/blocks/leaves_acacia.png",
+    "pumpkinpastures/images/blocks/leaves_oak.png"
+  ],
   "leaves_acacia_opaque_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/leaves_acacia_opaque.png",
     "pumpkinpastures/images/blocks/leaves_oak_opaque.png"
@@ -8688,6 +8690,9 @@
   ],
   "leaves_big_oak_opaque_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/leaves_big_oak_opaque.png"
+  ],
+  "leaves_birch_pumpkinpastures.png": [
+    "pumpkinpastures/images/blocks/leaves_birch.png"
   ],
   "leaves_birch_opaque_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/leaves_birch_opaque.png"
@@ -8786,6 +8791,9 @@
   "leaves_big_oak_opaque_highblockhalls.png": [
     "highblockhalls/images/blocks/leaves_big_oak_opaque.png",
     "redstonemines/images/blocks/leaves_big_oak_opaque.png"
+  ],
+  "leaves_spruce_redstonemines.png": [
+    "redstonemines/images/blocks/leaves_spruce.png"
   ],
   "leaves_spruce_opaque_redstonemines.png": [
     "redstonemines/images/blocks/leaves_spruce_opaque.png"
@@ -8927,8 +8935,7 @@
     "soggyswamp/images/blocks/leaves_acacia_outer.png"
   ],
   "leaves_big_oak_soggyswamp.png": [
-    "soggyswamp/images/blocks/leaves_big_oak.png",
-    "soggyswamp/images/blocks/leaves_oak_carried.png"
+    "soggyswamp/images/blocks/leaves_big_oak.png"
   ],
   "leaves_big_oak_opaque_soggyswamp.png": [
     "soggyswamp/images/blocks/leaves_big_oak_opaque.png"
@@ -9084,5 +9091,5 @@
   ],
   "stone_diorite_top.png": [
     "squidcoast/images/blocks/stone_diorite_top.png"
-   ]
+  ]
 }
