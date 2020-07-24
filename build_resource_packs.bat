@@ -1,4 +1,2 @@
 cd Tools
-python copy_block_textures.py
-cd ..
-package
+python py\copy_block_textures.py
